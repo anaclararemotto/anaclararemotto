@@ -27,9 +27,6 @@
 <a href="https://www.linkedin.com/in/clara-remotto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br>
-
-![snake gif](https://github.com/anaclararemotto/anaclararemotto/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <div>
