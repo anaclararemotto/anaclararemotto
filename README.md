@@ -29,7 +29,7 @@
 
 <br>
 
-![Snake animation](https://github.com/seu-usuário-aqui/anaclararemotto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anaclararemotto/anaclararemotto/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <div>
